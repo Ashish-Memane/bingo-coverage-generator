@@ -2,7 +2,7 @@
 
 **bin-go** is an intelligent, full-stack Python web utility designed to accelerate testbench assembly for ASIC Verification Engineers. It automates the generation of tedious SystemVerilog `covergroup` boilerplate code while introducing structural safety analysis to prevent simulation regression bottlenecks.
 
-🚀 **Live Web App:** [PASTE YOUR STREAMLIT APP URL HERE]
+🚀 **Live Web App:** (https://bingo-coverage.streamlit.app/)
 
 ---
 
